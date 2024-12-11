@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到二象界实验室', url: 'https://www.drlab.top' },
+    { title: '欢迎访问二象界实验室', url: 'https://www.drlab.top' },
     { title: '我是主理人彦晨，如需要帮助，可以联系我', url: 'https://www.drlab.top' }
   ],
 
@@ -39,9 +39,9 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '',
+    '',
+    '',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
