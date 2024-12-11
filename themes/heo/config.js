@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎访问二象界实验室', url: 'https://www.drlab.top' },
-    { title: '我是主理人彦晨，如需要帮助，可以联系我', url: 'https://www.drlab.top' }
+    { title: '如需要帮助，可以联系', url: 'https://www.drlab.top' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享知识',
   HEO_HERO_TITLE_2: '与思维成长',
   HEO_HERO_TITLE_3: 'Duality Realm lab',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '新内容',
   HEO_HERO_TITLE_5: '二象界实验室',
   HEO_HERO_TITLE_LINK: 'https://www.drlab.top',
   // 英雄区遮罩文字
