@@ -24,10 +24,10 @@ const BLOG = {
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || false, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
-  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Duality Realm lab', // 您的昵称 例如 tangly1024
-  BIO: process.env.NEXT_PUBLIC_BIO || '在二象之间，发现无限可能', // 作者简介
+  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Emergence Lab', // 您的昵称 例如 tangly1024
+  BIO: process.env.NEXT_PUBLIC_BIO || '让成长自然涌现', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://drlab.top', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '二象界实验室,Notion,个人博客，彦晨', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '涌现实验室,Notion,个人博客，彦晨', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || '', // 邮箱地址 例如mail@tangly1024.com
