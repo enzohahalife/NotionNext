@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2024-12-12', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2023-12-12', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享知识',
   HEO_HERO_TITLE_2: '与思维成长',
-  HEO_HERO_TITLE_3: 'Duality Realm lab',
+  HEO_HERO_TITLE_3: 'Emergence lab',
   HEO_HERO_TITLE_4: '新内容',
   HEO_HERO_TITLE_5: '涌现实验室',
   HEO_HERO_TITLE_LINK: 'https://www.drlab.top',
