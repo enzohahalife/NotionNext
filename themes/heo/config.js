@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎访问二象界实验室', url: '' },
-    { title: '在二象之间，发现无限可能', url: '' }
+    { title: '欢迎访问涌现实验室', url: '' },
+    { title: '让成长自然涌现', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维成长',
   HEO_HERO_TITLE_3: 'Duality Realm lab',
   HEO_HERO_TITLE_4: '新内容',
-  HEO_HERO_TITLE_5: '二象界实验室',
+  HEO_HERO_TITLE_5: '涌现实验室',
   HEO_HERO_TITLE_LINK: 'https://www.drlab.top',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便闲逛',
