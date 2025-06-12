@@ -51,8 +51,8 @@ const CONFIG = {
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://www.drlab.top',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.drlab.top/aboutdrlab',
+  HEO_INFO_CARD_ICON2: 'https://github.com/enzohahalife',
+  HEO_INFO_CARD_URL3: 'https://www.drlab.top/about',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
